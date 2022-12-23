@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e543255-611f-45bf-9cb5-191c2ca9b833" name="Plesk Thuis" url="http://89526.stu.sd-lab.nl">
+        <fileTransfer rootFolder="/httpdocs" host="89526.stu.sd-lab.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
